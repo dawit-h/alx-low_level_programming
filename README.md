@@ -1,5 +1,5 @@
 # Alx Low level programming learning
 
-** C programming **
+***C programming***
 
-<img width=500 src="https://gyanchautari.com/wp-content/uploads/2021/07/Intruduction-and-Feature-of-C-Programming.png"/>
+<img align=center width=700 src="https://gyanchautari.com/wp-content/uploads/2021/07/Intruduction-and-Feature-of-C-Programming.png"/>
