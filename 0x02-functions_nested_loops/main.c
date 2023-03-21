@@ -1,15 +1,14 @@
 #include "main.h"
+#include <stdio.h>
 
 int main(){
     int r;
 
-    r = print_sign(-8);
-    _putchar(r + '0');
-    r = print_sign(1);
-    _putchar(r + '0');
-    r = print_sign(0);
-    _putchar(r + '0');
-    r = print_sign(87);
-    _putchar(r + '0');
+    r = print_last_digit(96);
+    _putchar('0' + r);
+
+    print_last_digit(32);
+    print_last_digit(-1024);
+ 
     return 0;
 }
