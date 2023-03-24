@@ -3,6 +3,6 @@
 
 int main()
 {
-	times_table();
+	print_to_98(10000000);
 	return (0);
 }
