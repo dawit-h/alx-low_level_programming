@@ -3,6 +3,6 @@
 
 int main()
 {
-	print_to_98(10000000);
+	print_to_98(98);
 	return (0);
 }
