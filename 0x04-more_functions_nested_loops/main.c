@@ -2,8 +2,8 @@
 #include <stdio.h>
 int main(void)
 {
-	print_diagonal(6);
-	print_diagonal(10);
-	print_diagonal(-5);
+	print_square(2);
+	print_square(0);
+	print_square(10);
 	return 0;
 }
