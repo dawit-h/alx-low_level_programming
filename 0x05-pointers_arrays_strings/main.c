@@ -3,8 +3,8 @@
 
 int main(void)
 {
-	char *s = "dave hailu";
+	int arr[] = {1, 3, 5};
 
-	_puts(s);
+	print_array(arr, 3);
 	return (0);
 }
